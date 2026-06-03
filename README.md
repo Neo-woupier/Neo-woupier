@@ -1,9 +1,8 @@
 # Yo╬  (￣▽￣)~*
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=40&pause=1000&color=FF4081&center=true&vCenter=true&width=500&lines=Hi!+I'm+Neowoupier+(call+me+neww);I+majoring+in+ComputerEngineering+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=40&pause=1000&color=FF4081&center=true&vCenter=true&width=500&lines=Hi!+I'm+Neowoupier+(call+me+neww);I'm+majoring+in+Computer+Engineering+%3A)" alt="Typing SVG" />
 </p>
-
 
 ## Languages (i have used)
 <img src="https://skillicons.dev/icons?i=c,java,py,ts" />
