@@ -5,25 +5,16 @@
 </p>
 
 ### Languages (i have used)
-<p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,py,ts" />
-</p>
 
 ### Frontend 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
 
 ### Backend & Database 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-</p>
 
 ### Tools & Security ╰(⇀ v ⇀)╯
-<p align="center">
  <img src="https://skillicons.dev/icons?i=vercel,postman" />
  <br><br>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nmap-212121?style=flat&logo=linux&logoColor=white" alt="Nmap" />
-</p>
-
