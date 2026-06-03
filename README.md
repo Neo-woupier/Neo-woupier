@@ -5,13 +5,19 @@
 </p>
 
 ## Languages (i have used)
-<img src="https://skillicons.dev/icons?i=c,java,py,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,py,ts" />
+</p>
 
 ## Frontend 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
 ## Backend & Database 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
 
 ## Tools & Security ╰(⇀ v ⇀)╯
 <img src="https://skillicons.dev/icons?i=vercel,postman" />
