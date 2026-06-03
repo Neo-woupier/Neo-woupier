@@ -9,7 +9,6 @@
 
 <br>
 
-<div align="right">
 
 ### Languages (I have used)
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
@@ -31,4 +30,3 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nmap-212121?style=flat&logo=linux&logoColor=white" alt="Nmap" />
 
-</div>
