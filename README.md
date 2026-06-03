@@ -1,25 +1,25 @@
 # Yo╬  (￣▽￣)~*
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=40&pause=1000&color=FF4081&center=true&vCenter=true&width=500&lines=I'm+Neowoupier(call+me+neww);majoring+in+Computer+Engineer+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&size=40&pause=1000&color=FF4081&center=true&vCenter=true&width=700&lines=I'm+Neowoupier(call+me+neww);majoring+in+Computer+Engineer+%3A)" alt="Typing SVG" />
 </p>
 
-## Languages (i have used)
+### Languages (i have used)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,py,ts" />
 </p>
 
-## Frontend 
+### Frontend 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-## Backend & Database 
+### Backend & Database 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
 </p>
 
-## Tools & Security ╰(⇀ v ⇀)╯
+### Tools & Security ╰(⇀ v ⇀)╯
 <p align="center">
  <img src="https://skillicons.dev/icons?i=vercel,postman" />
  <br><br>
