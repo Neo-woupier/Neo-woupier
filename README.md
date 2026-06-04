@@ -11,6 +11,12 @@
 
 <div align="left">
 
+<br> 
+
+### Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-nunewwongsarthon%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nunewwongsarthon@gmail.com)
+
+
 ### Languages (I have used)
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
